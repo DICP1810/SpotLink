@@ -3,7 +3,7 @@ SpotLinkTest
 # SpotLink测试
 
 ## 文件说明
--  SpotLink v1.0.7z.001-009：SpotLink程序主体共9个文件，请一起下载后解压使用
+-  SpotLink v1.0.7z.001-009：SpotLink程序主体共9个文件，请一起下载后解压使用(我暂时还不会传大文件到Github上)
 -  TestData.7z：测试样例数据及说明
 
 ## SpotLink的使用

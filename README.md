@@ -1,5 +1,5 @@
 # SpotLink
-![SpotLink_icon](https://github.com/DICP1810/SpotLink/blob/main/SpotLink_icon.png=50*50)
+![SpotLink_icon](https://github.com/DICP1810/SpotLink/blob/main/SpotLink_icon.png =50x50)
 
 ## Brief introduction
 

@@ -1,5 +1,8 @@
 # SpotLink
-SpotLinkTest
+![SpotLink_icon](https://github.com/DICP1810/SpotLink/blob/main/SpotLink_icon.png)
+
+## Brief introduction
+
 # SpotLink测试
 
 ## 程序下载
@@ -17,3 +20,4 @@ https://dotnet.microsoft.com/download/dotnet/thank-you/sdk-6.0.100-windows-x64-i
 - OS: Windows 10(x64)或Windows 11(x64)
 - RAM: 16GB及以上
 - 磁盘空间：1GB及以上
+

@@ -9,7 +9,7 @@ SpotLink has a user friendly user interface to set parameters. The cross-linking
 
 ## SpotLink Hardware Environment
 - CPU: Intel or AMD processor with 64-bit support; 2.3 GHz or faster processor with at least 8 cores is recommended
-- RAM: 16GB or higher is recommended for regular search; 64GB or higher is recommended for proteome scale (> 20000 proteins)search
+- RAM: 16GB or higher is recommended for regular search; 64GB or higher is recommended for proteome scale (> 20000 proteins) search
 - ROM: for one raw data(1G) 5G or higher is recommended
 
 ## SpotLink Software Environment

@@ -3,23 +3,23 @@
 <img src="https://github.com/DICP1810/SpotLink/blob/main/SpotLink_Icon.png" width="100" />
 </div>
 
-## Brief introduction
+## Brief Introduction
+SpotLink is a software for identifying site non-specific cross-links from LC-MS/MS, which can realize the identification from simple proteins to the proteomics.
+SpotLink has a user friendly user interface to set parameters. The cross-linking result is easily visualized by [proXL]<https://proxl-ms.org>.
 
-# SpotLink测试
+## SpotLink Hardware Environment
+- CPU: Intel or AMD processor with 64-bit support; 2.3 GHz or faster processor with at least 8 cores is recommended
+- RAM: 16GB or higher is recommended for regular search; 64GB or higher is recommended for proteome scale (> 20000 proteins)search
+- ROM: for one raw data(1G) 5G or higher is recommended
 
-## 程序下载
-- 请在右侧的release区域进行SpotLink的下载
+## SpotLink Software Environment
+- OS: Windows 10(x64) or Windows 11(x64)
+- Runtime: [.NET 6.0]<https://dotnet.microsoft.com/en-us/download/dotnet/6.0> provided by Microsoft is needed. Please make sure it has been installed before running SpotLink. [Click hear to Download .NET 6]<https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-6.0.101-windows-x64-installer>
 
-## 文件说明
--  TestData.7z：测试样例数据及说明
+## SpotLink User Manual
+Please check and download [the user manual]<> for more details on running SpotLink.
 
-## SpotLink的使用
-SpotLink的运行需要.Net Core 6.0的支持，在第一次启动时确认已经安装完成了.Net Core 6.0环境
-可以使用下面的链接下载并安装Windows(x64)的SDK
-https://dotnet.microsoft.com/download/dotnet/thank-you/sdk-6.0.100-windows-x64-installer
+## SpotLink Test Data
+Please download [the Test Data]<> to experience SpotLink.
 
-## SpotLink的推荐配置
-- OS: Windows 10(x64)或Windows 11(x64)
-- RAM: 16GB及以上
-- 磁盘空间：1GB及以上
-
+<center><b>Please Enjoy Your Trip in SpotLink.</b></center>

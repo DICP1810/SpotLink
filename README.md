@@ -23,5 +23,5 @@ Please check and download [the user manual]() for more details on running SpotLi
 Please download [the Test Data]() to experience SpotLink.
 
 <div align="center">
-<center><b>Please Enjoy Your Trip in SpotLink.</b></center>
+<center><b><font size="10">Please Enjoy Your Trip in SpotLink.</font></b></center>
 </div>

@@ -17,10 +17,10 @@ SpotLink has a user friendly user interface to set parameters. The cross-linking
 - Runtime: [.NET 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) provided by Microsoft is needed. Please make sure it has been installed before running SpotLink. [Click hear to Download .NET 6](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-6.0.101-windows-x64-installer)
 
 ## SpotLink User Manual
-Please check and download [the user manual]() for more details on running SpotLink.
+Please check and download [the user manual](https://github.com/DICP1810/SpotLink/blob/main/Manual%20for%20SpotLink.pdf) for more details on running SpotLink.
 
 ## SpotLink Test Data
-Please download [the Test Data]() to experience SpotLink.
+Please download [the Test Data](https://github.com/DICP1810/SpotLink/blob/main/TestData.7z) to experience SpotLink.
 
 <div align="center">
 <center><b><font size="7">Please Enjoy Your Trip in SpotLink.</font></b></center>
